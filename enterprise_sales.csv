@@ -1,0 +1,16 @@
+OrderID,OrderDate,CustomerType,ProductCategory,SalesChannel,Quantity,Revenue,ProductCost,Region,CustomerSatisfaction,Gross_Profit,Profit margin%
+TXN-2026-001,2026-10-01,VIP,Electronics,Online,5,125000,85000,North,High,40000,32.00%
+TXN-2026-002,2026-10-01,Regular,Fashion,In-Store,12,24000,18000,West,Medium,6000,25.00%
+TXN-2026-003,2026-10-02,VIP,Electronics,Online,2,50000,34000,North,High,16000,32.00%
+TXN-2026-004,2026-10-02,Corporate,Home Decor,Distributor,40,180000,120000,South,Low,60000,33.33%
+TXN-2026-005,2026-10-03,Regular,Fashion,Online,8,16000,11000,North,Medium,5000,31.25%
+TXN-2026-006,2026-10-04,Corporate,Electronics,Distributor,15,375000,260000,East,High,115000,30.67%
+TXN-2026-007,2026-10-05,VIP,Home Decor,In-Store,4,22000,15000,West,High,7000,31.82%
+TXN-2026-008,2026-10-06,Regular,Fashion,In-Store,25,50000,38000,South,Low,12000,24.00%
+TXN-2026-009,2026-10-07,Corporate,Electronics,Online,8,200000,140000,East,Medium,60000,30.00%
+TXN-2026-010,2026-10-08,VIP,Fashion,Online,3,9000,6000,North,High,3000,33.33%
+TXN-2026-011,2026-10-09,Regular,Electronics,In-Store,1,25000,18000,West,Medium,7000,28.00%
+TXN-2026-012,2026-10-10,Corporate,Home Decor,Distributor,50,225000,155000,South,High,70000,31.11%
+TXN-2026-013,2026-10-11,VIP,Home Decor,Online,6,33000,22000,East,Low,11000,33.33%
+TXN-2026-014,2026-10-12,Regular,Electronics,In-Store,4,100000,70000,North,Medium,30000,30.00%
+TXN-2026-015,2026-10-13,Corporate,Fashion,Distributor,30,60000,45000,West,High,15000,25.00%
